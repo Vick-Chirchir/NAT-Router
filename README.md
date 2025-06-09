@@ -23,20 +23,16 @@ Network Design: <br/>
 <img src="https://i.imgur.com/iXxbTrK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-EIGRP Enabled Router(R 1):  <br/>
-<img src="https://i.imgur.com/dDu0dE3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuration of NAT Overload (PAT – Port Address Translation)  (NAT Router): <br/>
+<img src="https://i.imgur.com/5kUtZhg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-EIGRP and OSPF Enables on Router (R 2): <br/>
-<img src="https://i.imgur.com/4HPoFon.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Internet Router Configuration(Internet):  <br/>
+<img src="https://i.imgur.com/Vwqa2iO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-OSPF Enables on Router (R 3):  <br/>
-<img src="https://i.imgur.com/ggLj5sW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Verifying PC0 can Communicate to Router R 1:  <br/>
-<img src="https://i.imgur.com/754eRuV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verifying the Configuration is successful:  <br/>
+<img src="https://i.imgur.com/1buFVpK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
