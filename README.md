@@ -4,8 +4,7 @@
 <!-- ### [Kaltura Capture Recording](https://mediaspace.minnstate.edu/media/Kaltura+Capture+recording+-+April+26th+2025%2C+11%3A11%3A10+pm/1_sp0j5ef9) -->
 
 <h2>Description</h2>
-This project demonstrates the redistribution of routes between OSPF and EIGRP within a multi-router network topology using Cisco Packet Tracer. The lab simulates a common enterprise scenario where two different routing protocols operate across network segments and must exchange routing information to ensure full network connectivity. 
-This project enhanced my understanding of hybrid routing environments and the practical application of redistribution to bridge protocol boundaries, preparing me for real-world enterprise networking challenges.
+This project demonstrates the implementation of Network Address Translation (NAT) on a Cisco router to allow internal private network devices to access the public internet. The lab was created in Cisco Packet Tracer and showcases a typical enterprise scenario where internal hosts use private IP addresses that must be translated to a public IP for external communication. This project reflects the practical application of NAT in enterprise networks where IP translation is required to bridge private networks with public internet access.
 <br />
 
 
@@ -21,7 +20,7 @@ This project enhanced my understanding of hybrid routing environments and the pr
 
 <p align="center">
 Network Design: <br/>
-<img src="https://i.imgur.com/bcQgPyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iXxbTrK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 EIGRP Enabled Router(R 1):  <br/>
