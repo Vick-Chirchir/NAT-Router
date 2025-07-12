@@ -20,19 +20,19 @@ This project demonstrates the implementation of Network Address Translation (NAT
 
 <p align="center">
 Network Design: <br/>
-<img src="https://i.imgur.com/iXxbTrK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iXxbTrK.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configuration of NAT Overload (PAT – Port Address Translation)  (NAT Router): <br/>
-<img src="https://i.imgur.com/5kUtZhg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5kUtZhg.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Internet Router Configuration(Internet):  <br/>
-<img src="https://i.imgur.com/Vwqa2iO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Vwqa2iO.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Verifying the Configuration is successful:  <br/>
-<img src="https://i.imgur.com/1buFVpK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1buFVpK.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
